@@ -1,0 +1,18 @@
+[
+  {
+    "package": "bioC.logs",
+    "oncran": true
+  },
+  {
+    "package": "covid19.analytics",
+    "oncran": true
+  },
+  {
+    "package": "ehelp",
+    "oncran": true
+  },
+  {
+    "package": "Visualize.CRAN.Downloads",
+    "oncran": true
+  }
+]
