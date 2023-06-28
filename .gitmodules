@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "bioC.logs"]
 	path = bioC.logs
 	url = https://github.com/mponce0/bioc.logs
-	shallow = true
-	registered = true
 [submodule "covid19.analytics"]
 	path = covid19.analytics
 	url = https://github.com/mponce0/covid19.analytics
-	shallow = true
-	registered = true
 [submodule "ehelp"]
 	path = ehelp
 	url = https://github.com/mponce0/ehelp
-	shallow = true
-	registered = true
 [submodule "Visualize.CRAN.Downloads"]
 	path = Visualize.CRAN.Downloads
 	url = https://github.com/mponce0/visualize.cran.downloads
-	shallow = true
-	registered = true
