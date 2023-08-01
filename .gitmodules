@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "Visualize.CRAN.Downloads"]
+	path = Visualize.CRAN.Downloads
+	url = https://github.com/mponce0/visualize.cran.downloads
 [submodule "bioC.logs"]
 	path = bioC.logs
 	url = https://github.com/mponce0/bioc.logs
@@ -11,6 +14,3 @@
 [submodule "ehelp"]
 	path = ehelp
 	url = https://github.com/mponce0/ehelp
-[submodule "Visualize.CRAN.Downloads"]
-	path = Visualize.CRAN.Downloads
-	url = https://github.com/mponce0/visualize.cran.downloads
